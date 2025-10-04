@@ -7,4 +7,4 @@ Note that this information may change over the course.
 
 Deadline | Link | Description|
 ---------|------|-----------|
-17.10.2024 | [Denoising Diffusion Probabilistic Models](https://github.com/RostislavKorst/Generative-Models-2024/blob/main/Assignment%201/1_ddpm.ipynb) | Diffusion Models practice
+20.10.2024 | [Denoising Diffusion Probabilistic Models](https://github.com/RostislavKorst/Generative-Models-2024/blob/main/Assignment%201/1_ddpm.ipynb) | Diffusion Models practice
