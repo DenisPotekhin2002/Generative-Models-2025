@@ -1,2 +1,10 @@
-# Generative-Models-2025
-Here I will publish assignments for the course on generative models (Autumn 2025).
+# Generative Models
+**Autumn 2025**
+
+Below you will find assignments and current deadlines for the Arip Asadulaev's Generative Models course, Autumn 2025. 
+
+Note that this information may change over the course.
+
+Deadline | Link | Description|
+---------|------|-----------|
+17.10.2024 | [Denoising Diffusion Probabilistic Models](https://github.com/RostislavKorst/Generative-Models-2024/blob/main/Assignment%201/1_ddpm.ipynb) | Diffusion Models practice
